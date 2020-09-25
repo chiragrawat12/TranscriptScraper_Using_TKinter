@@ -1,0 +1,1248 @@
+WARNING | 2020-08-26 04:24:55,095  -  file_cache is unavailable when using oauth2client >= 4.0.0 or google-auth
+Traceback (most recent call last):
+  File "C:\Users\chiragrawat12\AppData\Local\Programs\Python\Python38-32\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 33, in <module>
+    from oauth2client.contrib.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\chiragrawat12\AppData\Local\Programs\Python\Python38-32\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 37, in <module>
+    from oauth2client.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\chiragrawat12\AppData\Local\Programs\Python\Python38-32\lib\site-packages\googleapiclient\discovery_cache\__init__.py", line 44, in autodetect
+    from . import file_cache
+  File "C:\Users\chiragrawat12\AppData\Local\Programs\Python\Python38-32\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 40, in <module>
+    raise ImportError(
+ImportError: file_cache is unavailable when using oauth2client >= 4.0.0 or google-auth
+INFO | 2020-08-26 04:24:57,304  -  Got list of videos from youtube Api
+INFO | 2020-08-26 04:24:57,306  -  Searched_By_Keyword Directory is already available
+INFO | 2020-08-26 04:24:57,309  -  Searched_By_Keyword/hello Directory has been created
+WARNING | 2020-08-26 04:28:40,801  -  file_cache is unavailable when using oauth2client >= 4.0.0 or google-auth
+Traceback (most recent call last):
+  File "C:\Users\chiragrawat12\AppData\Local\Programs\Python\Python38-32\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 33, in <module>
+    from oauth2client.contrib.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\chiragrawat12\AppData\Local\Programs\Python\Python38-32\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 37, in <module>
+    from oauth2client.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\chiragrawat12\AppData\Local\Programs\Python\Python38-32\lib\site-packages\googleapiclient\discovery_cache\__init__.py", line 44, in autodetect
+    from . import file_cache
+  File "C:\Users\chiragrawat12\AppData\Local\Programs\Python\Python38-32\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 40, in <module>
+    raise ImportError(
+ImportError: file_cache is unavailable when using oauth2client >= 4.0.0 or google-auth
+INFO | 2020-08-26 04:28:42,641  -  Got list of videos from youtube Api
+INFO | 2020-08-26 04:28:42,643  -  Searched_By_URL Directory is already available
+INFO | 2020-08-26 04:28:42,645  -  Searched_By_URL/Keith Galli Directory has been created
+INFO | 2020-08-26 04:28:45,031  -  Got Transcript : https://www.youtube.com/watch?v=D8-snVfekto
+INFO | 2020-08-26 04:28:45,055  -  Searched_By_URL/Keith Galli/How_to_Program_a_GUI_Application__with_Python_Tkinter__ Directory has been created
+INFO | 2020-08-26 04:28:46,252  -  Captured Succesfully: https://www.youtube.com/watch?v=D8-snVfekto
+INFO | 2020-08-26 04:28:46,259  -  Searched_By_URL Directory is already available
+INFO | 2020-08-26 04:28:46,267  -  Searched_By_URL/Tech With Tim Directory has been created
+INFO | 2020-08-26 04:28:48,524  -  Got Transcript : https://www.youtube.com/watch?v=OXi4T58PwdM
+INFO | 2020-08-26 04:28:48,567  -  Searched_By_URL/Tech With Tim/15_Python_Projects_in_Under_15_Minutes__Code_Included_ Directory has been created
+WARNING | 2020-08-26 04:29:41,811  -  file_cache is unavailable when using oauth2client >= 4.0.0 or google-auth
+Traceback (most recent call last):
+  File "C:\Users\chiragrawat12\AppData\Local\Programs\Python\Python38-32\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 33, in <module>
+    from oauth2client.contrib.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\chiragrawat12\AppData\Local\Programs\Python\Python38-32\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 37, in <module>
+    from oauth2client.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\chiragrawat12\AppData\Local\Programs\Python\Python38-32\lib\site-packages\googleapiclient\discovery_cache\__init__.py", line 44, in autodetect
+    from . import file_cache
+  File "C:\Users\chiragrawat12\AppData\Local\Programs\Python\Python38-32\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 40, in <module>
+    raise ImportError(
+ImportError: file_cache is unavailable when using oauth2client >= 4.0.0 or google-auth
+WARNING | 2020-08-26 04:30:00,806  -  Encountered 403 Forbidden with reason "quotaExceeded"
+WARNING | 2020-08-26 04:31:31,374  -  file_cache is unavailable when using oauth2client >= 4.0.0 or google-auth
+Traceback (most recent call last):
+  File "C:\Users\chiragrawat12\AppData\Local\Programs\Python\Python38-32\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 33, in <module>
+    from oauth2client.contrib.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\chiragrawat12\AppData\Local\Programs\Python\Python38-32\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 37, in <module>
+    from oauth2client.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\chiragrawat12\AppData\Local\Programs\Python\Python38-32\lib\site-packages\googleapiclient\discovery_cache\__init__.py", line 44, in autodetect
+    from . import file_cache
+  File "C:\Users\chiragrawat12\AppData\Local\Programs\Python\Python38-32\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 40, in <module>
+    raise ImportError(
+ImportError: file_cache is unavailable when using oauth2client >= 4.0.0 or google-auth
+WARNING | 2020-08-26 04:31:33,476  -  Encountered 403 Forbidden with reason "quotaExceeded"
+INFO | 2020-08-26 04:31:33,479  -  Youtube api key quota is exceeded
+INFO | 2020-08-26 04:31:33,483  -  Searched_By_Keyword Directory is already available
+INFO | 2020-08-26 04:31:33,486  -  Searched_By_Keyword/hello21 Directory has been created
+WARNING | 2020-08-26 04:31:45,478  -  file_cache is unavailable when using oauth2client >= 4.0.0 or google-auth
+Traceback (most recent call last):
+  File "C:\Users\chiragrawat12\AppData\Local\Programs\Python\Python38-32\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 33, in <module>
+    from oauth2client.contrib.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\chiragrawat12\AppData\Local\Programs\Python\Python38-32\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 37, in <module>
+    from oauth2client.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\chiragrawat12\AppData\Local\Programs\Python\Python38-32\lib\site-packages\googleapiclient\discovery_cache\__init__.py", line 44, in autodetect
+    from . import file_cache
+  File "C:\Users\chiragrawat12\AppData\Local\Programs\Python\Python38-32\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 40, in <module>
+    raise ImportError(
+ImportError: file_cache is unavailable when using oauth2client >= 4.0.0 or google-auth
+INFO | 2020-08-26 04:31:47,333  -  Got list of videos from youtube Api
+INFO | 2020-08-26 04:31:47,336  -  Searched_By_Keyword Directory is already available
+INFO | 2020-08-26 04:31:47,339  -  Searched_By_Keyword/hello21 Directory already available
+WARNING | 2020-08-26 04:33:18,854  -  file_cache is unavailable when using oauth2client >= 4.0.0 or google-auth
+Traceback (most recent call last):
+  File "C:\Users\chiragrawat12\AppData\Local\Programs\Python\Python38-32\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 33, in <module>
+    from oauth2client.contrib.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\chiragrawat12\AppData\Local\Programs\Python\Python38-32\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 37, in <module>
+    from oauth2client.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\chiragrawat12\AppData\Local\Programs\Python\Python38-32\lib\site-packages\googleapiclient\discovery_cache\__init__.py", line 44, in autodetect
+    from . import file_cache
+  File "C:\Users\chiragrawat12\AppData\Local\Programs\Python\Python38-32\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 40, in <module>
+    raise ImportError(
+ImportError: file_cache is unavailable when using oauth2client >= 4.0.0 or google-auth
+WARNING | 2020-08-26 04:33:20,668  -  Encountered 403 Forbidden with reason "quotaExceeded"
+INFO | 2020-08-26 04:33:20,671  -  Youtube api key quota is exceeded
+INFO | 2020-08-26 04:33:20,676  -  Searched_By_Keyword Directory is already available
+INFO | 2020-08-26 04:33:20,679  -  Searched_By_Keyword/dhruv ratee Directory has been created
+WARNING | 2020-08-26 04:33:41,223  -  file_cache is unavailable when using oauth2client >= 4.0.0 or google-auth
+Traceback (most recent call last):
+  File "C:\Users\chiragrawat12\AppData\Local\Programs\Python\Python38-32\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 33, in <module>
+    from oauth2client.contrib.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\chiragrawat12\AppData\Local\Programs\Python\Python38-32\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 37, in <module>
+    from oauth2client.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\chiragrawat12\AppData\Local\Programs\Python\Python38-32\lib\site-packages\googleapiclient\discovery_cache\__init__.py", line 44, in autodetect
+    from . import file_cache
+  File "C:\Users\chiragrawat12\AppData\Local\Programs\Python\Python38-32\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 40, in <module>
+    raise ImportError(
+ImportError: file_cache is unavailable when using oauth2client >= 4.0.0 or google-auth
+INFO | 2020-08-26 04:33:43,035  -  Got list of videos from youtube Api
+INFO | 2020-08-26 04:33:43,036  -  Searched_By_Keyword Directory is already available
+INFO | 2020-08-26 04:33:43,038  -  Searched_By_Keyword/hirag Directory has been created
+WARNING | 2020-08-26 04:34:27,009  -  file_cache is unavailable when using oauth2client >= 4.0.0 or google-auth
+Traceback (most recent call last):
+  File "C:\Users\chiragrawat12\AppData\Local\Programs\Python\Python38-32\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 33, in <module>
+    from oauth2client.contrib.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\chiragrawat12\AppData\Local\Programs\Python\Python38-32\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 37, in <module>
+    from oauth2client.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\chiragrawat12\AppData\Local\Programs\Python\Python38-32\lib\site-packages\googleapiclient\discovery_cache\__init__.py", line 44, in autodetect
+    from . import file_cache
+  File "C:\Users\chiragrawat12\AppData\Local\Programs\Python\Python38-32\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 40, in <module>
+    raise ImportError(
+ImportError: file_cache is unavailable when using oauth2client >= 4.0.0 or google-auth
+WARNING | 2020-08-26 04:34:45,809  -  file_cache is unavailable when using oauth2client >= 4.0.0 or google-auth
+Traceback (most recent call last):
+  File "C:\Users\chiragrawat12\AppData\Local\Programs\Python\Python38-32\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 33, in <module>
+    from oauth2client.contrib.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\chiragrawat12\AppData\Local\Programs\Python\Python38-32\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 37, in <module>
+    from oauth2client.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\chiragrawat12\AppData\Local\Programs\Python\Python38-32\lib\site-packages\googleapiclient\discovery_cache\__init__.py", line 44, in autodetect
+    from . import file_cache
+  File "C:\Users\chiragrawat12\AppData\Local\Programs\Python\Python38-32\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 40, in <module>
+    raise ImportError(
+ImportError: file_cache is unavailable when using oauth2client >= 4.0.0 or google-auth
+INFO | 2020-08-26 04:34:47,822  -  Got list of videos from youtube Api
+INFO | 2020-08-26 04:34:47,825  -  Searched_By_Keyword Directory is already available
+INFO | 2020-08-26 04:34:47,828  -  Searched_By_Keyword/iphone Directory has been created
+INFO | 2020-08-26 04:34:49,808  -  Already in Skipped : https://www.youtube.com/watch?v=RuhvdaDabpU
+WARNING | 2020-08-26 04:35:19,721  -  file_cache is unavailable when using oauth2client >= 4.0.0 or google-auth
+Traceback (most recent call last):
+  File "C:\Users\chiragrawat12\AppData\Local\Programs\Python\Python38-32\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 33, in <module>
+    from oauth2client.contrib.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\chiragrawat12\AppData\Local\Programs\Python\Python38-32\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 37, in <module>
+    from oauth2client.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\chiragrawat12\AppData\Local\Programs\Python\Python38-32\lib\site-packages\googleapiclient\discovery_cache\__init__.py", line 44, in autodetect
+    from . import file_cache
+  File "C:\Users\chiragrawat12\AppData\Local\Programs\Python\Python38-32\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 40, in <module>
+    raise ImportError(
+ImportError: file_cache is unavailable when using oauth2client >= 4.0.0 or google-auth
+INFO | 2020-08-26 04:35:21,696  -  Got list of videos from youtube Api
+INFO | 2020-08-26 04:35:21,698  -  Searched_By_Keyword Directory is already available
+INFO | 2020-08-26 04:35:21,700  -  Searched_By_Keyword/iphone Directory already available
+WARNING | 2020-08-26 04:35:25,386  -  file_cache is unavailable when using oauth2client >= 4.0.0 or google-auth
+Traceback (most recent call last):
+  File "C:\Users\chiragrawat12\AppData\Local\Programs\Python\Python38-32\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 33, in <module>
+    from oauth2client.contrib.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\chiragrawat12\AppData\Local\Programs\Python\Python38-32\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 37, in <module>
+    from oauth2client.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\chiragrawat12\AppData\Local\Programs\Python\Python38-32\lib\site-packages\googleapiclient\discovery_cache\__init__.py", line 44, in autodetect
+    from . import file_cache
+  File "C:\Users\chiragrawat12\AppData\Local\Programs\Python\Python38-32\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 40, in <module>
+    raise ImportError(
+ImportError: file_cache is unavailable when using oauth2client >= 4.0.0 or google-auth
+INFO | 2020-08-26 04:35:27,238  -  Got list of videos from youtube Api
+INFO | 2020-08-26 04:35:27,240  -  Searched_By_Keyword Directory is already available
+INFO | 2020-08-26 04:35:27,244  -  Searched_By_Keyword/hirag Directory already available
+WARNING | 2020-08-26 04:38:18,169  -  file_cache is unavailable when using oauth2client >= 4.0.0 or google-auth
+Traceback (most recent call last):
+  File "C:\Users\chiragrawat12\AppData\Local\Programs\Python\Python38-32\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 33, in <module>
+    from oauth2client.contrib.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\chiragrawat12\AppData\Local\Programs\Python\Python38-32\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 37, in <module>
+    from oauth2client.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\chiragrawat12\AppData\Local\Programs\Python\Python38-32\lib\site-packages\googleapiclient\discovery_cache\__init__.py", line 44, in autodetect
+    from . import file_cache
+  File "C:\Users\chiragrawat12\AppData\Local\Programs\Python\Python38-32\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 40, in <module>
+    raise ImportError(
+ImportError: file_cache is unavailable when using oauth2client >= 4.0.0 or google-auth
+INFO | 2020-08-26 04:38:20,173  -  Got list of videos from youtube Api
+INFO | 2020-08-26 04:38:20,174  -  Searched_By_Keyword Directory is already available
+INFO | 2020-08-26 04:38:20,175  -  Searched_By_Keyword/dhruv ratee Directory already available
+INFO | 2020-08-26 04:38:22,334  -  Already in Skipped : https://www.youtube.com/watch?v=9NJP5d0zuiY
+WARNING | 2020-08-26 04:38:47,648  -  file_cache is unavailable when using oauth2client >= 4.0.0 or google-auth
+Traceback (most recent call last):
+  File "C:\Users\chiragrawat12\AppData\Local\Programs\Python\Python38-32\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 33, in <module>
+    from oauth2client.contrib.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\chiragrawat12\AppData\Local\Programs\Python\Python38-32\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 37, in <module>
+    from oauth2client.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\chiragrawat12\AppData\Local\Programs\Python\Python38-32\lib\site-packages\googleapiclient\discovery_cache\__init__.py", line 44, in autodetect
+    from . import file_cache
+  File "C:\Users\chiragrawat12\AppData\Local\Programs\Python\Python38-32\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 40, in <module>
+    raise ImportError(
+ImportError: file_cache is unavailable when using oauth2client >= 4.0.0 or google-auth
+INFO | 2020-08-26 04:38:49,572  -  Got list of videos from youtube Api
+INFO | 2020-08-26 04:38:49,574  -  Searched_By_Keyword Directory is already available
+INFO | 2020-08-26 04:38:49,577  -  Searched_By_Keyword/chiru Directory has been created
+INFO | 2020-08-26 04:38:51,081  -  Transcript Not Found! - Skipped : https://www.youtube.com/watch?v=26UunyY1N24
+WARNING | 2020-08-26 04:39:32,517  -  file_cache is unavailable when using oauth2client >= 4.0.0 or google-auth
+Traceback (most recent call last):
+  File "C:\Users\chiragrawat12\AppData\Local\Programs\Python\Python38-32\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 33, in <module>
+    from oauth2client.contrib.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\chiragrawat12\AppData\Local\Programs\Python\Python38-32\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 37, in <module>
+    from oauth2client.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\chiragrawat12\AppData\Local\Programs\Python\Python38-32\lib\site-packages\googleapiclient\discovery_cache\__init__.py", line 44, in autodetect
+    from . import file_cache
+  File "C:\Users\chiragrawat12\AppData\Local\Programs\Python\Python38-32\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 40, in <module>
+    raise ImportError(
+ImportError: file_cache is unavailable when using oauth2client >= 4.0.0 or google-auth
+INFO | 2020-08-26 04:39:34,605  -  Got list of videos from youtube Api
+INFO | 2020-08-26 04:39:34,607  -  Searched_By_Keyword Directory is already available
+INFO | 2020-08-26 04:39:34,610  -  Searched_By_Keyword/chiru Directory already available
+WARNING | 2020-08-26 04:39:38,325  -  file_cache is unavailable when using oauth2client >= 4.0.0 or google-auth
+Traceback (most recent call last):
+  File "C:\Users\chiragrawat12\AppData\Local\Programs\Python\Python38-32\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 33, in <module>
+    from oauth2client.contrib.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\chiragrawat12\AppData\Local\Programs\Python\Python38-32\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 37, in <module>
+    from oauth2client.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\chiragrawat12\AppData\Local\Programs\Python\Python38-32\lib\site-packages\googleapiclient\discovery_cache\__init__.py", line 44, in autodetect
+    from . import file_cache
+  File "C:\Users\chiragrawat12\AppData\Local\Programs\Python\Python38-32\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 40, in <module>
+    raise ImportError(
+ImportError: file_cache is unavailable when using oauth2client >= 4.0.0 or google-auth
+INFO | 2020-08-26 04:39:40,251  -  Got list of videos from youtube Api
+INFO | 2020-08-26 04:39:40,253  -  Searched_By_Keyword Directory is already available
+INFO | 2020-08-26 04:39:40,255  -  Searched_By_Keyword/iphone Directory already available
+WARNING | 2020-08-26 04:44:26,663  -  file_cache is unavailable when using oauth2client >= 4.0.0 or google-auth
+Traceback (most recent call last):
+  File "C:\Users\chiragrawat12\AppData\Local\Programs\Python\Python38-32\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 33, in <module>
+    from oauth2client.contrib.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\chiragrawat12\AppData\Local\Programs\Python\Python38-32\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 37, in <module>
+    from oauth2client.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\chiragrawat12\AppData\Local\Programs\Python\Python38-32\lib\site-packages\googleapiclient\discovery_cache\__init__.py", line 44, in autodetect
+    from . import file_cache
+  File "C:\Users\chiragrawat12\AppData\Local\Programs\Python\Python38-32\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 40, in <module>
+    raise ImportError(
+ImportError: file_cache is unavailable when using oauth2client >= 4.0.0 or google-auth
+INFO | 2020-08-26 04:44:28,945  -  Got list of videos from youtube Api
+INFO | 2020-08-26 04:44:28,948  -  Searched_By_Keyword Directory is already available
+INFO | 2020-08-26 04:44:28,952  -  Searched_By_Keyword/chiru Directory already available
+WARNING | 2020-08-26 04:44:41,208  -  file_cache is unavailable when using oauth2client >= 4.0.0 or google-auth
+Traceback (most recent call last):
+  File "C:\Users\chiragrawat12\AppData\Local\Programs\Python\Python38-32\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 33, in <module>
+    from oauth2client.contrib.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\chiragrawat12\AppData\Local\Programs\Python\Python38-32\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 37, in <module>
+    from oauth2client.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\chiragrawat12\AppData\Local\Programs\Python\Python38-32\lib\site-packages\googleapiclient\discovery_cache\__init__.py", line 44, in autodetect
+    from . import file_cache
+  File "C:\Users\chiragrawat12\AppData\Local\Programs\Python\Python38-32\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 40, in <module>
+    raise ImportError(
+ImportError: file_cache is unavailable when using oauth2client >= 4.0.0 or google-auth
+INFO | 2020-08-26 04:44:42,966  -  Got list of videos from youtube Api
+INFO | 2020-08-26 04:44:42,968  -  Searched_By_Keyword Directory is already available
+INFO | 2020-08-26 04:44:42,970  -  Searched_By_Keyword/gfbdfg Directory has been created
+WARNING | 2020-08-26 04:47:19,776  -  file_cache is unavailable when using oauth2client >= 4.0.0 or google-auth
+Traceback (most recent call last):
+  File "C:\Users\chiragrawat12\AppData\Local\Programs\Python\Python38-32\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 33, in <module>
+    from oauth2client.contrib.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\chiragrawat12\AppData\Local\Programs\Python\Python38-32\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 37, in <module>
+    from oauth2client.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\chiragrawat12\AppData\Local\Programs\Python\Python38-32\lib\site-packages\googleapiclient\discovery_cache\__init__.py", line 44, in autodetect
+    from . import file_cache
+  File "C:\Users\chiragrawat12\AppData\Local\Programs\Python\Python38-32\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 40, in <module>
+    raise ImportError(
+ImportError: file_cache is unavailable when using oauth2client >= 4.0.0 or google-auth
+INFO | 2020-08-26 04:47:21,799  -  Got list of videos from youtube Api
+INFO | 2020-08-26 04:47:21,804  -  Searched_By_Keyword Directory is already available
+INFO | 2020-08-26 04:47:21,807  -  Searched_By_Keyword/dfgdfgdf Directory has been created
+WARNING | 2020-08-26 04:47:59,848  -  file_cache is unavailable when using oauth2client >= 4.0.0 or google-auth
+Traceback (most recent call last):
+  File "C:\Users\chiragrawat12\AppData\Local\Programs\Python\Python38-32\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 33, in <module>
+    from oauth2client.contrib.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\chiragrawat12\AppData\Local\Programs\Python\Python38-32\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 37, in <module>
+    from oauth2client.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\chiragrawat12\AppData\Local\Programs\Python\Python38-32\lib\site-packages\googleapiclient\discovery_cache\__init__.py", line 44, in autodetect
+    from . import file_cache
+  File "C:\Users\chiragrawat12\AppData\Local\Programs\Python\Python38-32\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 40, in <module>
+    raise ImportError(
+ImportError: file_cache is unavailable when using oauth2client >= 4.0.0 or google-auth
+INFO | 2020-08-26 04:48:01,644  -  Got list of videos from youtube Api
+INFO | 2020-08-26 04:48:01,645  -  Searched_By_Keyword Directory is already available
+INFO | 2020-08-26 04:48:01,646  -  Searched_By_Keyword/dfgdfgdf Directory already available
+WARNING | 2020-08-26 04:50:38,000  -  file_cache is unavailable when using oauth2client >= 4.0.0 or google-auth
+Traceback (most recent call last):
+  File "C:\Users\chiragrawat12\AppData\Local\Programs\Python\Python38-32\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 33, in <module>
+    from oauth2client.contrib.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\chiragrawat12\AppData\Local\Programs\Python\Python38-32\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 37, in <module>
+    from oauth2client.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\chiragrawat12\AppData\Local\Programs\Python\Python38-32\lib\site-packages\googleapiclient\discovery_cache\__init__.py", line 44, in autodetect
+    from . import file_cache
+  File "C:\Users\chiragrawat12\AppData\Local\Programs\Python\Python38-32\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 40, in <module>
+    raise ImportError(
+ImportError: file_cache is unavailable when using oauth2client >= 4.0.0 or google-auth
+INFO | 2020-08-26 04:50:40,200  -  Got list of videos from youtube Api
+INFO | 2020-08-26 04:50:40,202  -  Searched_By_Keyword Directory is already available
+INFO | 2020-08-26 04:50:40,205  -  Searched_By_Keyword/sdfgsdf Directory has been created
+WARNING | 2020-08-26 04:50:55,829  -  file_cache is unavailable when using oauth2client >= 4.0.0 or google-auth
+Traceback (most recent call last):
+  File "C:\Users\chiragrawat12\AppData\Local\Programs\Python\Python38-32\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 33, in <module>
+    from oauth2client.contrib.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\chiragrawat12\AppData\Local\Programs\Python\Python38-32\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 37, in <module>
+    from oauth2client.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\chiragrawat12\AppData\Local\Programs\Python\Python38-32\lib\site-packages\googleapiclient\discovery_cache\__init__.py", line 44, in autodetect
+    from . import file_cache
+  File "C:\Users\chiragrawat12\AppData\Local\Programs\Python\Python38-32\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 40, in <module>
+    raise ImportError(
+ImportError: file_cache is unavailable when using oauth2client >= 4.0.0 or google-auth
+INFO | 2020-08-26 04:50:57,735  -  Got list of videos from youtube Api
+INFO | 2020-08-26 04:50:57,736  -  Searched_By_Keyword Directory is already available
+INFO | 2020-08-26 04:50:57,739  -  Searched_By_Keyword/sdfgsdf Directory already available
+INFO | 2020-08-26 04:50:59,175  -  Transcript Not Found! - Skipped : https://www.youtube.com/watch?v=jDUv5W3WgAU
+WARNING | 2020-08-26 04:54:10,209  -  file_cache is unavailable when using oauth2client >= 4.0.0 or google-auth
+Traceback (most recent call last):
+  File "C:\Users\chiragrawat12\AppData\Local\Programs\Python\Python38-32\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 33, in <module>
+    from oauth2client.contrib.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\chiragrawat12\AppData\Local\Programs\Python\Python38-32\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 37, in <module>
+    from oauth2client.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\chiragrawat12\AppData\Local\Programs\Python\Python38-32\lib\site-packages\googleapiclient\discovery_cache\__init__.py", line 44, in autodetect
+    from . import file_cache
+  File "C:\Users\chiragrawat12\AppData\Local\Programs\Python\Python38-32\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 40, in <module>
+    raise ImportError(
+ImportError: file_cache is unavailable when using oauth2client >= 4.0.0 or google-auth
+INFO | 2020-08-26 04:54:12,308  -  Got list of videos from youtube Api
+INFO | 2020-08-26 04:54:12,310  -  Searched_By_Keyword Directory is already available
+INFO | 2020-08-26 04:54:12,313  -  Searched_By_Keyword/dfgdfgdf Directory already available
+WARNING | 2020-08-26 05:02:29,695  -  file_cache is unavailable when using oauth2client >= 4.0.0 or google-auth
+Traceback (most recent call last):
+  File "C:\Users\chiragrawat12\AppData\Local\Programs\Python\Python38-32\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 33, in <module>
+    from oauth2client.contrib.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\chiragrawat12\AppData\Local\Programs\Python\Python38-32\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 37, in <module>
+    from oauth2client.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\chiragrawat12\AppData\Local\Programs\Python\Python38-32\lib\site-packages\googleapiclient\discovery_cache\__init__.py", line 44, in autodetect
+    from . import file_cache
+  File "C:\Users\chiragrawat12\AppData\Local\Programs\Python\Python38-32\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 40, in <module>
+    raise ImportError(
+ImportError: file_cache is unavailable when using oauth2client >= 4.0.0 or google-auth
+INFO | 2020-08-26 05:02:31,968  -  Got list of videos from youtube Api
+INFO | 2020-08-26 05:02:31,969  -  Searched_By_Keyword Directory is already available
+INFO | 2020-08-26 05:02:31,971  -  Searched_By_Keyword/dsdf Directory has been created
+WARNING | 2020-08-26 05:09:58,246  -  file_cache is unavailable when using oauth2client >= 4.0.0 or google-auth
+Traceback (most recent call last):
+  File "C:\Users\chiragrawat12\AppData\Local\Programs\Python\Python38-32\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 33, in <module>
+    from oauth2client.contrib.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\chiragrawat12\AppData\Local\Programs\Python\Python38-32\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 37, in <module>
+    from oauth2client.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\chiragrawat12\AppData\Local\Programs\Python\Python38-32\lib\site-packages\googleapiclient\discovery_cache\__init__.py", line 44, in autodetect
+    from . import file_cache
+  File "C:\Users\chiragrawat12\AppData\Local\Programs\Python\Python38-32\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 40, in <module>
+    raise ImportError(
+ImportError: file_cache is unavailable when using oauth2client >= 4.0.0 or google-auth
+INFO | 2020-08-26 05:10:00,452  -  Got list of videos from youtube Api
+INFO | 2020-08-26 05:10:00,454  -  Searched_By_Keyword Directory is already available
+INFO | 2020-08-26 05:10:00,456  -  Searched_By_Keyword/dsdf Directory already available
+WARNING | 2020-08-26 05:14:01,398  -  file_cache is unavailable when using oauth2client >= 4.0.0 or google-auth
+Traceback (most recent call last):
+  File "C:\Users\chiragrawat12\AppData\Local\Programs\Python\Python38-32\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 33, in <module>
+    from oauth2client.contrib.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\chiragrawat12\AppData\Local\Programs\Python\Python38-32\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 37, in <module>
+    from oauth2client.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\chiragrawat12\AppData\Local\Programs\Python\Python38-32\lib\site-packages\googleapiclient\discovery_cache\__init__.py", line 44, in autodetect
+    from . import file_cache
+  File "C:\Users\chiragrawat12\AppData\Local\Programs\Python\Python38-32\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 40, in <module>
+    raise ImportError(
+ImportError: file_cache is unavailable when using oauth2client >= 4.0.0 or google-auth
+INFO | 2020-08-26 05:14:03,512  -  Got list of videos from youtube Api
+INFO | 2020-08-26 05:14:03,513  -  Searched_By_Keyword Directory is already available
+INFO | 2020-08-26 05:14:03,515  -  Searched_By_Keyword/dsdf Directory already available
+WARNING | 2020-08-26 05:14:05,893  -  file_cache is unavailable when using oauth2client >= 4.0.0 or google-auth
+Traceback (most recent call last):
+  File "C:\Users\chiragrawat12\AppData\Local\Programs\Python\Python38-32\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 33, in <module>
+    from oauth2client.contrib.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\chiragrawat12\AppData\Local\Programs\Python\Python38-32\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 37, in <module>
+    from oauth2client.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\chiragrawat12\AppData\Local\Programs\Python\Python38-32\lib\site-packages\googleapiclient\discovery_cache\__init__.py", line 44, in autodetect
+    from . import file_cache
+  File "C:\Users\chiragrawat12\AppData\Local\Programs\Python\Python38-32\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 40, in <module>
+    raise ImportError(
+ImportError: file_cache is unavailable when using oauth2client >= 4.0.0 or google-auth
+INFO | 2020-08-26 05:14:07,758  -  Got list of videos from youtube Api
+INFO | 2020-08-26 05:14:07,761  -  Searched_By_Keyword Directory is already available
+INFO | 2020-08-26 05:14:07,764  -  Searched_By_Keyword/dsdf Directory already available
+WARNING | 2020-08-26 05:15:14,171  -  file_cache is unavailable when using oauth2client >= 4.0.0 or google-auth
+Traceback (most recent call last):
+  File "C:\Users\chiragrawat12\AppData\Local\Programs\Python\Python38-32\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 33, in <module>
+    from oauth2client.contrib.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\chiragrawat12\AppData\Local\Programs\Python\Python38-32\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 37, in <module>
+    from oauth2client.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\chiragrawat12\AppData\Local\Programs\Python\Python38-32\lib\site-packages\googleapiclient\discovery_cache\__init__.py", line 44, in autodetect
+    from . import file_cache
+  File "C:\Users\chiragrawat12\AppData\Local\Programs\Python\Python38-32\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 40, in <module>
+    raise ImportError(
+ImportError: file_cache is unavailable when using oauth2client >= 4.0.0 or google-auth
+INFO | 2020-08-26 05:15:16,172  -  Got list of videos from youtube Api
+INFO | 2020-08-26 05:15:16,173  -  Searched_By_Keyword Directory is already available
+INFO | 2020-08-26 05:15:16,175  -  Searched_By_Keyword/dfgdfgdf Directory already available
+WARNING | 2020-08-26 05:15:19,493  -  file_cache is unavailable when using oauth2client >= 4.0.0 or google-auth
+Traceback (most recent call last):
+  File "C:\Users\chiragrawat12\AppData\Local\Programs\Python\Python38-32\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 33, in <module>
+    from oauth2client.contrib.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\chiragrawat12\AppData\Local\Programs\Python\Python38-32\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 37, in <module>
+    from oauth2client.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\chiragrawat12\AppData\Local\Programs\Python\Python38-32\lib\site-packages\googleapiclient\discovery_cache\__init__.py", line 44, in autodetect
+    from . import file_cache
+  File "C:\Users\chiragrawat12\AppData\Local\Programs\Python\Python38-32\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 40, in <module>
+    raise ImportError(
+ImportError: file_cache is unavailable when using oauth2client >= 4.0.0 or google-auth
+INFO | 2020-08-26 05:15:21,387  -  Got list of videos from youtube Api
+INFO | 2020-08-26 05:15:21,389  -  Searched_By_Keyword Directory is already available
+INFO | 2020-08-26 05:15:21,391  -  Searched_By_Keyword/iphone Directory already available
+WARNING | 2020-08-26 05:15:28,592  -  file_cache is unavailable when using oauth2client >= 4.0.0 or google-auth
+Traceback (most recent call last):
+  File "C:\Users\chiragrawat12\AppData\Local\Programs\Python\Python38-32\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 33, in <module>
+    from oauth2client.contrib.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\chiragrawat12\AppData\Local\Programs\Python\Python38-32\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 37, in <module>
+    from oauth2client.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\chiragrawat12\AppData\Local\Programs\Python\Python38-32\lib\site-packages\googleapiclient\discovery_cache\__init__.py", line 44, in autodetect
+    from . import file_cache
+  File "C:\Users\chiragrawat12\AppData\Local\Programs\Python\Python38-32\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 40, in <module>
+    raise ImportError(
+ImportError: file_cache is unavailable when using oauth2client >= 4.0.0 or google-auth
+WARNING | 2020-08-26 05:15:48,503  -  file_cache is unavailable when using oauth2client >= 4.0.0 or google-auth
+Traceback (most recent call last):
+  File "C:\Users\chiragrawat12\AppData\Local\Programs\Python\Python38-32\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 33, in <module>
+    from oauth2client.contrib.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\chiragrawat12\AppData\Local\Programs\Python\Python38-32\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 37, in <module>
+    from oauth2client.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\chiragrawat12\AppData\Local\Programs\Python\Python38-32\lib\site-packages\googleapiclient\discovery_cache\__init__.py", line 44, in autodetect
+    from . import file_cache
+  File "C:\Users\chiragrawat12\AppData\Local\Programs\Python\Python38-32\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 40, in <module>
+    raise ImportError(
+ImportError: file_cache is unavailable when using oauth2client >= 4.0.0 or google-auth
+INFO | 2020-08-26 05:15:50,346  -  Got list of videos from youtube Api
+INFO | 2020-08-26 05:15:50,348  -  Searched_By_Keyword Directory is already available
+INFO | 2020-08-26 05:15:50,349  -  Searched_By_Keyword/dhruv ratee Directory already available
+WARNING | 2020-08-26 05:15:51,287  -  Encountered 403 Forbidden with reason "quotaExceeded"
+INFO | 2020-08-26 05:15:51,290  -  Youtube api key quota is exceeded
+INFO | 2020-08-26 05:15:51,297  -  Searched_By_Keyword Directory is already available
+INFO | 2020-08-26 05:15:51,302  -  Searched_By_Keyword/chiragrawta Directory has been created
+WARNING | 2020-08-26 05:19:38,845  -  file_cache is unavailable when using oauth2client >= 4.0.0 or google-auth
+Traceback (most recent call last):
+  File "C:\Users\chiragrawat12\AppData\Local\Programs\Python\Python38-32\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 33, in <module>
+    from oauth2client.contrib.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\chiragrawat12\AppData\Local\Programs\Python\Python38-32\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 37, in <module>
+    from oauth2client.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\chiragrawat12\AppData\Local\Programs\Python\Python38-32\lib\site-packages\googleapiclient\discovery_cache\__init__.py", line 44, in autodetect
+    from . import file_cache
+  File "C:\Users\chiragrawat12\AppData\Local\Programs\Python\Python38-32\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 40, in <module>
+    raise ImportError(
+ImportError: file_cache is unavailable when using oauth2client >= 4.0.0 or google-auth
+INFO | 2020-08-26 05:19:40,850  -  Got list of videos from youtube Api
+WARNING | 2020-08-26 05:21:58,677  -  file_cache is unavailable when using oauth2client >= 4.0.0 or google-auth
+Traceback (most recent call last):
+  File "C:\Users\chiragrawat12\AppData\Local\Programs\Python\Python38-32\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 33, in <module>
+    from oauth2client.contrib.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\chiragrawat12\AppData\Local\Programs\Python\Python38-32\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 37, in <module>
+    from oauth2client.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\chiragrawat12\AppData\Local\Programs\Python\Python38-32\lib\site-packages\googleapiclient\discovery_cache\__init__.py", line 44, in autodetect
+    from . import file_cache
+  File "C:\Users\chiragrawat12\AppData\Local\Programs\Python\Python38-32\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 40, in <module>
+    raise ImportError(
+ImportError: file_cache is unavailable when using oauth2client >= 4.0.0 or google-auth
+WARNING | 2020-08-26 05:22:00,416  -  Encountered 403 Forbidden with reason "quotaExceeded"
+INFO | 2020-08-26 05:22:00,418  -  Youtube api key quota is exceeded
+INFO | 2020-08-26 05:22:00,424  -  Searched_By_Keyword Directory is already available
+INFO | 2020-08-26 05:22:00,425  -  Searched_By_Keyword/dhruv ratee Directory already available
+WARNING | 2020-08-26 05:22:16,304  -  file_cache is unavailable when using oauth2client >= 4.0.0 or google-auth
+Traceback (most recent call last):
+  File "C:\Users\chiragrawat12\AppData\Local\Programs\Python\Python38-32\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 33, in <module>
+    from oauth2client.contrib.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\chiragrawat12\AppData\Local\Programs\Python\Python38-32\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 37, in <module>
+    from oauth2client.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\chiragrawat12\AppData\Local\Programs\Python\Python38-32\lib\site-packages\googleapiclient\discovery_cache\__init__.py", line 44, in autodetect
+    from . import file_cache
+  File "C:\Users\chiragrawat12\AppData\Local\Programs\Python\Python38-32\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 40, in <module>
+    raise ImportError(
+ImportError: file_cache is unavailable when using oauth2client >= 4.0.0 or google-auth
+INFO | 2020-08-26 05:22:18,077  -  Got list of videos from youtube Api
+INFO | 2020-08-26 05:22:18,079  -  Searched_By_Keyword Directory is already available
+INFO | 2020-08-26 05:22:18,081  -  Searched_By_Keyword/vcbvb Directory has been created
+WARNING | 2020-08-26 05:26:29,637  -  file_cache is unavailable when using oauth2client >= 4.0.0 or google-auth
+Traceback (most recent call last):
+  File "C:\Users\chiragrawat12\AppData\Local\Programs\Python\Python38-32\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 33, in <module>
+    from oauth2client.contrib.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\chiragrawat12\AppData\Local\Programs\Python\Python38-32\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 37, in <module>
+    from oauth2client.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\chiragrawat12\AppData\Local\Programs\Python\Python38-32\lib\site-packages\googleapiclient\discovery_cache\__init__.py", line 44, in autodetect
+    from . import file_cache
+  File "C:\Users\chiragrawat12\AppData\Local\Programs\Python\Python38-32\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 40, in <module>
+    raise ImportError(
+ImportError: file_cache is unavailable when using oauth2client >= 4.0.0 or google-auth
+INFO | 2020-08-26 05:26:32,108  -  Got list of videos from youtube Api
+INFO | 2020-08-26 05:26:32,109  -  Searched_By_Keyword Directory is already available
+INFO | 2020-08-26 05:26:32,111  -  Searched_By_Keyword/vcbvb Directory already available
+WARNING | 2020-08-26 05:28:13,385  -  file_cache is unavailable when using oauth2client >= 4.0.0 or google-auth
+Traceback (most recent call last):
+  File "C:\Users\chiragrawat12\AppData\Local\Programs\Python\Python38-32\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 33, in <module>
+    from oauth2client.contrib.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\chiragrawat12\AppData\Local\Programs\Python\Python38-32\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 37, in <module>
+    from oauth2client.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\chiragrawat12\AppData\Local\Programs\Python\Python38-32\lib\site-packages\googleapiclient\discovery_cache\__init__.py", line 44, in autodetect
+    from . import file_cache
+  File "C:\Users\chiragrawat12\AppData\Local\Programs\Python\Python38-32\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 40, in <module>
+    raise ImportError(
+ImportError: file_cache is unavailable when using oauth2client >= 4.0.0 or google-auth
+INFO | 2020-08-26 05:28:15,202  -  Got list of videos from youtube Api
+INFO | 2020-08-26 05:28:15,204  -  Searched_By_Keyword Directory is already available
+INFO | 2020-08-26 05:28:15,207  -  Searched_By_Keyword/vcbvb Directory already available
+WARNING | 2020-08-26 05:29:58,145  -  file_cache is unavailable when using oauth2client >= 4.0.0 or google-auth
+Traceback (most recent call last):
+  File "C:\Users\chiragrawat12\AppData\Local\Programs\Python\Python38-32\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 33, in <module>
+    from oauth2client.contrib.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\chiragrawat12\AppData\Local\Programs\Python\Python38-32\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 37, in <module>
+    from oauth2client.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\chiragrawat12\AppData\Local\Programs\Python\Python38-32\lib\site-packages\googleapiclient\discovery_cache\__init__.py", line 44, in autodetect
+    from . import file_cache
+  File "C:\Users\chiragrawat12\AppData\Local\Programs\Python\Python38-32\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 40, in <module>
+    raise ImportError(
+ImportError: file_cache is unavailable when using oauth2client >= 4.0.0 or google-auth
+WARNING | 2020-08-26 05:30:00,244  -  Encountered 403 Forbidden with reason "quotaExceeded"
+INFO | 2020-08-26 05:30:00,245  -  Youtube api key quota is exceeded
+INFO | 2020-08-26 05:30:00,247  -  Searched_By_Keyword Directory is already available
+INFO | 2020-08-26 05:30:00,248  -  Searched_By_Keyword/dhruv ratee Directory already available
+WARNING | 2020-08-26 05:34:30,993  -  file_cache is unavailable when using oauth2client >= 4.0.0 or google-auth
+Traceback (most recent call last):
+  File "C:\Users\chiragrawat12\AppData\Local\Programs\Python\Python38-32\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 33, in <module>
+    from oauth2client.contrib.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\chiragrawat12\AppData\Local\Programs\Python\Python38-32\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 37, in <module>
+    from oauth2client.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\chiragrawat12\AppData\Local\Programs\Python\Python38-32\lib\site-packages\googleapiclient\discovery_cache\__init__.py", line 44, in autodetect
+    from . import file_cache
+  File "C:\Users\chiragrawat12\AppData\Local\Programs\Python\Python38-32\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 40, in <module>
+    raise ImportError(
+ImportError: file_cache is unavailable when using oauth2client >= 4.0.0 or google-auth
+WARNING | 2020-08-26 05:34:33,544  -  Encountered 403 Forbidden with reason "quotaExceeded"
+INFO | 2020-08-26 05:34:33,546  -  Youtube api key quota is exceeded
+INFO | 2020-08-26 05:34:33,550  -  Searched_By_Keyword Directory is already available
+INFO | 2020-08-26 05:34:33,554  -  Searched_By_Keyword/chiragrawta Directory already available
+WARNING | 2020-08-26 05:35:10,921  -  file_cache is unavailable when using oauth2client >= 4.0.0 or google-auth
+Traceback (most recent call last):
+  File "C:\Users\chiragrawat12\AppData\Local\Programs\Python\Python38-32\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 33, in <module>
+    from oauth2client.contrib.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\chiragrawat12\AppData\Local\Programs\Python\Python38-32\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 37, in <module>
+    from oauth2client.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\chiragrawat12\AppData\Local\Programs\Python\Python38-32\lib\site-packages\googleapiclient\discovery_cache\__init__.py", line 44, in autodetect
+    from . import file_cache
+  File "C:\Users\chiragrawat12\AppData\Local\Programs\Python\Python38-32\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 40, in <module>
+    raise ImportError(
+ImportError: file_cache is unavailable when using oauth2client >= 4.0.0 or google-auth
+WARNING | 2020-08-26 05:35:12,714  -  Encountered 403 Forbidden with reason "quotaExceeded"
+INFO | 2020-08-26 05:35:12,717  -  Youtube api key quota is exceeded
+INFO | 2020-08-26 05:35:12,721  -  Searched_By_Keyword Directory is already available
+INFO | 2020-08-26 05:35:12,727  -  Searched_By_Keyword/chiragrawta45 Directory has been created
+WARNING | 2020-08-26 05:39:52,927  -  file_cache is unavailable when using oauth2client >= 4.0.0 or google-auth
+Traceback (most recent call last):
+  File "C:\Users\chiragrawat12\AppData\Local\Programs\Python\Python38-32\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 33, in <module>
+    from oauth2client.contrib.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\chiragrawat12\AppData\Local\Programs\Python\Python38-32\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 37, in <module>
+    from oauth2client.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\chiragrawat12\AppData\Local\Programs\Python\Python38-32\lib\site-packages\googleapiclient\discovery_cache\__init__.py", line 44, in autodetect
+    from . import file_cache
+  File "C:\Users\chiragrawat12\AppData\Local\Programs\Python\Python38-32\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 40, in <module>
+    raise ImportError(
+ImportError: file_cache is unavailable when using oauth2client >= 4.0.0 or google-auth
+WARNING | 2020-08-26 05:39:54,856  -  Encountered 403 Forbidden with reason "quotaExceeded"
+INFO | 2020-08-26 05:39:54,859  -  Youtube api key quota is exceeded
+INFO | 2020-08-26 05:39:54,864  -  Searched_By_Keyword Directory is already available
+INFO | 2020-08-26 05:39:54,867  -  Searched_By_Keyword/dfgfg Directory has been created
+WARNING | 2020-08-26 06:03:23,969  -  file_cache is unavailable when using oauth2client >= 4.0.0 or google-auth
+Traceback (most recent call last):
+  File "C:\Users\chiragrawat12\AppData\Local\Programs\Python\Python38-32\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 33, in <module>
+    from oauth2client.contrib.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\chiragrawat12\AppData\Local\Programs\Python\Python38-32\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 37, in <module>
+    from oauth2client.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\chiragrawat12\AppData\Local\Programs\Python\Python38-32\lib\site-packages\googleapiclient\discovery_cache\__init__.py", line 44, in autodetect
+    from . import file_cache
+  File "C:\Users\chiragrawat12\AppData\Local\Programs\Python\Python38-32\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 40, in <module>
+    raise ImportError(
+ImportError: file_cache is unavailable when using oauth2client >= 4.0.0 or google-auth
+WARNING | 2020-08-26 06:03:25,125  -  Encountered 403 Forbidden with reason "quotaExceeded"
+INFO | 2020-08-26 06:03:25,126  -  Youtube api key quota is exceeded
+INFO | 2020-08-26 06:03:25,129  -  Searched_By_Keyword Directory is already available
+INFO | 2020-08-26 06:03:25,130  -  Searched_By_Keyword/chiragrawta45 Directory already available
+WARNING | 2020-08-26 06:21:49,861  -  file_cache is unavailable when using oauth2client >= 4.0.0 or google-auth
+Traceback (most recent call last):
+  File "C:\Users\chiragrawat12\AppData\Local\Programs\Python\Python38-32\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 33, in <module>
+    from oauth2client.contrib.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\chiragrawat12\AppData\Local\Programs\Python\Python38-32\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 37, in <module>
+    from oauth2client.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\chiragrawat12\AppData\Local\Programs\Python\Python38-32\lib\site-packages\googleapiclient\discovery_cache\__init__.py", line 44, in autodetect
+    from . import file_cache
+  File "C:\Users\chiragrawat12\AppData\Local\Programs\Python\Python38-32\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 40, in <module>
+    raise ImportError(
+ImportError: file_cache is unavailable when using oauth2client >= 4.0.0 or google-auth
+WARNING | 2020-08-26 06:21:50,683  -  Encountered 403 Forbidden with reason "quotaExceeded"
+INFO | 2020-08-26 06:21:50,684  -  Youtube api key quota is exceeded
+INFO | 2020-08-26 06:21:50,689  -  Searched_By_Keyword Directory is already available
+INFO | 2020-08-26 06:21:50,692  -  Searched_By_Keyword/chiragrawta45 Directory already available
+WARNING | 2020-08-26 06:23:04,248  -  file_cache is unavailable when using oauth2client >= 4.0.0 or google-auth
+Traceback (most recent call last):
+  File "C:\Users\chiragrawat12\AppData\Local\Programs\Python\Python38-32\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 33, in <module>
+    from oauth2client.contrib.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\chiragrawat12\AppData\Local\Programs\Python\Python38-32\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 37, in <module>
+    from oauth2client.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\chiragrawat12\AppData\Local\Programs\Python\Python38-32\lib\site-packages\googleapiclient\discovery_cache\__init__.py", line 44, in autodetect
+    from . import file_cache
+  File "C:\Users\chiragrawat12\AppData\Local\Programs\Python\Python38-32\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 40, in <module>
+    raise ImportError(
+ImportError: file_cache is unavailable when using oauth2client >= 4.0.0 or google-auth
+WARNING | 2020-08-26 06:23:05,039  -  Encountered 403 Forbidden with reason "quotaExceeded"
+INFO | 2020-08-26 06:23:05,040  -  Youtube api key quota is exceeded
+INFO | 2020-08-26 06:23:05,045  -  Searched_By_Keyword Directory is already available
+INFO | 2020-08-26 06:23:05,047  -  Searched_By_Keyword/chiragrawta45 Directory already available
+WARNING | 2020-08-26 06:38:17,596  -  file_cache is unavailable when using oauth2client >= 4.0.0 or google-auth
+Traceback (most recent call last):
+  File "C:\Users\chiragrawat12\AppData\Local\Programs\Python\Python38-32\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 33, in <module>
+    from oauth2client.contrib.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\chiragrawat12\AppData\Local\Programs\Python\Python38-32\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 37, in <module>
+    from oauth2client.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\chiragrawat12\AppData\Local\Programs\Python\Python38-32\lib\site-packages\googleapiclient\discovery_cache\__init__.py", line 44, in autodetect
+    from . import file_cache
+  File "C:\Users\chiragrawat12\AppData\Local\Programs\Python\Python38-32\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 40, in <module>
+    raise ImportError(
+ImportError: file_cache is unavailable when using oauth2client >= 4.0.0 or google-auth
+WARNING | 2020-08-26 06:38:18,411  -  Encountered 403 Forbidden with reason "quotaExceeded"
+INFO | 2020-08-26 06:38:18,414  -  Youtube api key quota is exceeded
+INFO | 2020-08-26 06:38:18,418  -  Searched_By_Keyword Directory is already available
+INFO | 2020-08-26 06:38:18,422  -  Searched_By_Keyword/chiragrawta Directory already available
+WARNING | 2020-08-26 07:10:01,626  -  file_cache is unavailable when using oauth2client >= 4.0.0 or google-auth
+Traceback (most recent call last):
+  File "C:\Users\chiragrawat12\AppData\Local\Programs\Python\Python38-32\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 33, in <module>
+    from oauth2client.contrib.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\chiragrawat12\AppData\Local\Programs\Python\Python38-32\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 37, in <module>
+    from oauth2client.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\chiragrawat12\AppData\Local\Programs\Python\Python38-32\lib\site-packages\googleapiclient\discovery_cache\__init__.py", line 44, in autodetect
+    from . import file_cache
+  File "C:\Users\chiragrawat12\AppData\Local\Programs\Python\Python38-32\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 40, in <module>
+    raise ImportError(
+ImportError: file_cache is unavailable when using oauth2client >= 4.0.0 or google-auth
+WARNING | 2020-08-26 07:10:02,644  -  Encountered 403 Forbidden with reason "quotaExceeded"
+INFO | 2020-08-26 07:10:02,645  -  Youtube api key quota is exceeded
+INFO | 2020-08-26 07:10:02,647  -  Searched_By_Keyword Directory is already available
+INFO | 2020-08-26 07:10:02,648  -  Searched_By_Keyword/chiragrawta45 Directory already available
+WARNING | 2020-08-26 07:14:24,148  -  file_cache is unavailable when using oauth2client >= 4.0.0 or google-auth
+Traceback (most recent call last):
+  File "C:\Users\chiragrawat12\AppData\Local\Programs\Python\Python38-32\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 33, in <module>
+    from oauth2client.contrib.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\chiragrawat12\AppData\Local\Programs\Python\Python38-32\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 37, in <module>
+    from oauth2client.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\chiragrawat12\AppData\Local\Programs\Python\Python38-32\lib\site-packages\googleapiclient\discovery_cache\__init__.py", line 44, in autodetect
+    from . import file_cache
+  File "C:\Users\chiragrawat12\AppData\Local\Programs\Python\Python38-32\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 40, in <module>
+    raise ImportError(
+ImportError: file_cache is unavailable when using oauth2client >= 4.0.0 or google-auth
+WARNING | 2020-08-26 07:14:24,985  -  Encountered 403 Forbidden with reason "quotaExceeded"
+INFO | 2020-08-26 07:14:24,988  -  Youtube api key quota is exceeded
+INFO | 2020-08-26 07:14:24,994  -  Searched_By_Keyword Directory is already available
+INFO | 2020-08-26 07:14:24,996  -  Searched_By_Keyword/iphone Directory already available
+WARNING | 2020-08-26 07:14:25,009  -  file_cache is unavailable when using oauth2client >= 4.0.0 or google-auth
+Traceback (most recent call last):
+  File "C:\Users\chiragrawat12\AppData\Local\Programs\Python\Python38-32\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 33, in <module>
+    from oauth2client.contrib.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\chiragrawat12\AppData\Local\Programs\Python\Python38-32\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 37, in <module>
+    from oauth2client.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\chiragrawat12\AppData\Local\Programs\Python\Python38-32\lib\site-packages\googleapiclient\discovery_cache\__init__.py", line 44, in autodetect
+    from . import file_cache
+  File "C:\Users\chiragrawat12\AppData\Local\Programs\Python\Python38-32\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 40, in <module>
+    raise ImportError(
+ImportError: file_cache is unavailable when using oauth2client >= 4.0.0 or google-auth
+WARNING | 2020-08-26 07:14:25,793  -  Encountered 403 Forbidden with reason "quotaExceeded"
+INFO | 2020-08-26 07:14:25,796  -  Youtube api key quota is exceeded
+INFO | 2020-08-26 07:14:25,801  -  Searched_By_Keyword Directory is already available
+INFO | 2020-08-26 07:14:25,807  -  Searched_By_Keyword/unbox therapy Directory has been created
+WARNING | 2020-08-26 07:19:00,757  -  file_cache is unavailable when using oauth2client >= 4.0.0 or google-auth
+Traceback (most recent call last):
+  File "C:\Users\chiragrawat12\AppData\Local\Programs\Python\Python38-32\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 33, in <module>
+    from oauth2client.contrib.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\chiragrawat12\AppData\Local\Programs\Python\Python38-32\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 37, in <module>
+    from oauth2client.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\chiragrawat12\AppData\Local\Programs\Python\Python38-32\lib\site-packages\googleapiclient\discovery_cache\__init__.py", line 44, in autodetect
+    from . import file_cache
+  File "C:\Users\chiragrawat12\AppData\Local\Programs\Python\Python38-32\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 40, in <module>
+    raise ImportError(
+ImportError: file_cache is unavailable when using oauth2client >= 4.0.0 or google-auth
+WARNING | 2020-08-26 07:19:01,564  -  Encountered 403 Forbidden with reason "quotaExceeded"
+INFO | 2020-08-26 07:19:01,566  -  Youtube api key quota is exceeded
+INFO | 2020-08-26 07:19:01,571  -  Searched_By_Keyword Directory is already available
+INFO | 2020-08-26 07:19:01,574  -  Searched_By_Keyword/helloc Directory has been created
+WARNING | 2020-08-26 07:27:48,715  -  file_cache is unavailable when using oauth2client >= 4.0.0 or google-auth
+Traceback (most recent call last):
+  File "C:\Users\chiragrawat12\AppData\Local\Programs\Python\Python38-32\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 33, in <module>
+    from oauth2client.contrib.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\chiragrawat12\AppData\Local\Programs\Python\Python38-32\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 37, in <module>
+    from oauth2client.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\chiragrawat12\AppData\Local\Programs\Python\Python38-32\lib\site-packages\googleapiclient\discovery_cache\__init__.py", line 44, in autodetect
+    from . import file_cache
+  File "C:\Users\chiragrawat12\AppData\Local\Programs\Python\Python38-32\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 40, in <module>
+    raise ImportError(
+ImportError: file_cache is unavailable when using oauth2client >= 4.0.0 or google-auth
+WARNING | 2020-08-26 07:27:49,513  -  Encountered 403 Forbidden with reason "quotaExceeded"
+INFO | 2020-08-26 07:27:49,514  -  Youtube api key quota is exceeded
+INFO | 2020-08-26 07:27:49,516  -  Searched_By_Keyword Directory is already available
+INFO | 2020-08-26 07:27:49,517  -  Searched_By_Keyword/chira Directory has been created
+WARNING | 2020-08-26 07:32:21,712  -  file_cache is unavailable when using oauth2client >= 4.0.0 or google-auth
+Traceback (most recent call last):
+  File "C:\Users\chiragrawat12\AppData\Local\Programs\Python\Python38-32\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 33, in <module>
+    from oauth2client.contrib.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\chiragrawat12\AppData\Local\Programs\Python\Python38-32\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 37, in <module>
+    from oauth2client.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\chiragrawat12\AppData\Local\Programs\Python\Python38-32\lib\site-packages\googleapiclient\discovery_cache\__init__.py", line 44, in autodetect
+    from . import file_cache
+  File "C:\Users\chiragrawat12\AppData\Local\Programs\Python\Python38-32\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 40, in <module>
+    raise ImportError(
+ImportError: file_cache is unavailable when using oauth2client >= 4.0.0 or google-auth
+WARNING | 2020-08-26 07:32:22,510  -  Encountered 403 Forbidden with reason "quotaExceeded"
+INFO | 2020-08-26 07:32:22,512  -  Youtube api key quota is exceeded
+INFO | 2020-08-26 07:32:22,514  -  Searched_By_Keyword Directory is already available
+INFO | 2020-08-26 07:32:22,516  -  Searched_By_Keyword/iphone Directory already available
+WARNING | 2020-08-26 07:32:22,520  -  file_cache is unavailable when using oauth2client >= 4.0.0 or google-auth
+Traceback (most recent call last):
+  File "C:\Users\chiragrawat12\AppData\Local\Programs\Python\Python38-32\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 33, in <module>
+    from oauth2client.contrib.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\chiragrawat12\AppData\Local\Programs\Python\Python38-32\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 37, in <module>
+    from oauth2client.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\chiragrawat12\AppData\Local\Programs\Python\Python38-32\lib\site-packages\googleapiclient\discovery_cache\__init__.py", line 44, in autodetect
+    from . import file_cache
+  File "C:\Users\chiragrawat12\AppData\Local\Programs\Python\Python38-32\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 40, in <module>
+    raise ImportError(
+ImportError: file_cache is unavailable when using oauth2client >= 4.0.0 or google-auth
+INFO | 2020-08-26 07:32:23,356  -  Got list of videos from youtube Api
+INFO | 2020-08-26 07:32:23,358  -  Searched_By_Keyword Directory is already available
+INFO | 2020-08-26 07:32:23,361  -  Searched_By_Keyword/unbox therapy Directory already available
+INFO | 2020-08-26 07:32:24,108  -  Transcript Not Found! - Skipped : https://www.youtube.com/watch?v=XJ_Hx7vDUoA
+WARNING | 2020-08-26 07:40:39,705  -  file_cache is unavailable when using oauth2client >= 4.0.0 or google-auth
+Traceback (most recent call last):
+  File "C:\Users\chiragrawat12\AppData\Local\Programs\Python\Python38-32\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 33, in <module>
+    from oauth2client.contrib.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\chiragrawat12\AppData\Local\Programs\Python\Python38-32\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 37, in <module>
+    from oauth2client.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\chiragrawat12\AppData\Local\Programs\Python\Python38-32\lib\site-packages\googleapiclient\discovery_cache\__init__.py", line 44, in autodetect
+    from . import file_cache
+  File "C:\Users\chiragrawat12\AppData\Local\Programs\Python\Python38-32\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 40, in <module>
+    raise ImportError(
+ImportError: file_cache is unavailable when using oauth2client >= 4.0.0 or google-auth
+WARNING | 2020-08-26 07:40:40,530  -  Encountered 403 Forbidden with reason "quotaExceeded"
+INFO | 2020-08-26 07:40:40,533  -  Youtube api key quota is exceeded
+INFO | 2020-08-26 07:40:40,538  -  Searched_By_Keyword Directory is already available
+INFO | 2020-08-26 07:40:40,541  -  Searched_By_Keyword/hekasdfad Directory has been created
